@@ -39,7 +39,7 @@ I'm still a student
 <div align="center">
 <br>
 <a href="https://github.com/xxirfanx"><img src="https://github-readme-stats.vercel.app/api?username=xxirfanx&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
-<a href="https://github.com/xxirfanx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<a href="https://github.com/xxirfanx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxirfanx&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&bg_color=071A2C" />
 <a href="https://github.com/xxirfanx/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxirfanx&theme=onedark" /></a>
 </div>
