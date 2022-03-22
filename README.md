@@ -1,29 +1,46 @@
-<h1 align="center">Hi 👋, I'm LUA</h1>
-<h3 align="center">I am a 5rd Year undergraduate from India, Kerala budding Software Developer and a Design Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and excel. 🙂🎉</h3>
+<h2 align="center"><i><small>welcome To my profile 🧸💖</h2>
+<h3 align="center">About me!? 💖🧸</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxirfanx" alt="xxirfanx" /></a> </p>
+```rb
+Hello my Name Is irfan lua AND
+I'm still a student
 
-- HI FRIENDS ❤️🎉 **I love watching Anime or working on my laptop 👨‍💻**
-
-- I'm **currently learning how to proggraming on my Laptop 💪**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xxirfanx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xxirfanx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/irfan yt ff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="irfan yt ff" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerking" height="30" width="40" /></a>
+• I have 18 years
+• I am currently focusing on TypeScript, JavaScript,
+  html & css
+• Programming is just my hobby.
+```
+<br>
+<details align="center"><summary><b>connect with me 👋</b></summary><br>
+<p align="center">
+  <a href="https://instagram.com/af.heey" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/919072716373" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="YouTube"/>
+  </a>
 </p>
+</details>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+<details align="center"><summary><b>Know ledge ✨</b></summary><br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="css" src="https://img.shields.io/badge/CSS-00000?style=for-the-badge&logo=css3">
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
+  <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
+  <img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
+ </p>
+</details>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/xxirfanx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xxirfanx" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxirfanx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xxirfanx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxirfanx&show_icons=true&theme=dark&locale=en" alt="xxirfanx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="xxirfanx" /></p>
+<details align="center"><summary><b>Github statistics 💤</b></summary><br>
+  
+<div align="center">
+<br>
+<a href="https://github.com/xxirfanx"><img src="https://github-readme-stats.vercel.app/api?username=xxirfanx&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
+<a href="https://github.com/xxirfanx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevxnl&bg_color=071A2C" />
+<a href="https://github.com/xxirfanx/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxirfanx&theme=onedark" /></a>
+</div>
+</details>
