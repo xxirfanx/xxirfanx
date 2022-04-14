@@ -16,7 +16,7 @@ I'm still a student
   <a href="https://instagram.com/af.heey" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://wa.me/919072716373" target="_blank">
+  <a href="https://wa.me/642737966667" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 </p>
