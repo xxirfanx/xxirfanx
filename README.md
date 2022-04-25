@@ -5,7 +5,6 @@
 Hello my Name Is irfan lua AND
 I'm still a student
 
-• I have 18 years
 • I am currently focusing on TypeScript, JavaScript,
   html & css
 • Programming is just my hobby.
