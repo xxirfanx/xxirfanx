@@ -14,6 +14,9 @@ I'm still a student
 
 ```
 <br>
+```
+<img src="https://komarev.com/ghpvc/?username=xxirfanx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+```
 <details align="center"><summary><b>connect with me 👋</b></summary><br>
 <p align="center">
   <a href="https://instagram.com/af.heey" target="_blank">
@@ -36,8 +39,6 @@ I'm still a student
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
  </p>
 </details>
-
-<img src="https://komarev.com/ghpvc/?username=xxirfanx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
 <details align="center"><summary><b>Github statistics 💤</b></summary><br>
   
