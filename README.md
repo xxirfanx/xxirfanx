@@ -37,6 +37,9 @@ I'm still a student
  </p>
 </details>
 
+!--START_SECTION:waka-->
+<img src="https://komarev.com/ghpvc/?username=xxirfanx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
 <details align="center"><summary><b>Github statistics 💤</b></summary><br>
   
 <div align="center">
