@@ -14,10 +14,9 @@ I'm still a student
 
 ```
 <br>
-```rb
+
 <img src="https://komarev.com/ghpvc/?username=xxirfanx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
-```
-<br>
+
 <details align="center"><summary><b>connect with me 👋</b></summary><br>
 <p align="center">
   <a href="https://instagram.com/af.heey" target="_blank">
