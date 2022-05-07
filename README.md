@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/xxirfanx">
-    <img src="https://i.ibb.co/ccnY0mT/Background-Github.png" alt="Lua Cheia">
+    <img src="https://telegra.ph/file/4679823ded24a6e1a1be0.jpg" alt="Lua Cheia">
   </a>
 </p>
 
