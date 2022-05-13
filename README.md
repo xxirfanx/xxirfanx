@@ -5,7 +5,8 @@
   </a>
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/xxirfanx)**
-</p>
-<img src="https://komarev.com/ghpvc/?username=xxirfanx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
+</p>
+
+- <img src="https://komarev.com/ghpvc/?username=xxirfanx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 </p>
