@@ -1,5 +1,4 @@
-# hi 
-# I'm lua ser ofc
+# hi I'm lua ser ofc
 <p align="center">
   <a href="https://github.com/xxirfanx">
     <img src="https://telegra.ph/file/fc7de11526088f5ece27e.jpg" alt="Lua Cheia">
