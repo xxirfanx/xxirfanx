@@ -1,4 +1,4 @@
-# hi there beautiful day 💮
+# hi there 👋🏻
 
 ```javascript
   function Personal(name, age, hobby)
